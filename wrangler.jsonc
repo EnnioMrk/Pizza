@@ -14,7 +14,7 @@
     {
       "binding": "DB",
       "database_name": "pizza",
-      "database_id": "00000000-0000-0000-0000-000000000000",
+      "database_id": "a8a8955f-1220-477f-9cdb-4f3e83ad8d8b",
       "migrations_dir": "migrations"
     }
   ],
