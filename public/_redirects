@@ -1,0 +1,5 @@
+# Old PHP entry points.
+/index.php /
+/sites/Order/index.php /sites/Order/ 301
+/sites/Admin/index.php /sites/Admin/ 301
+/sites/About/index.php /sites/About/ 301
